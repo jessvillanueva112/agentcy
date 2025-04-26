@@ -1,0 +1,2 @@
+# agentcy
+earthshots '25
